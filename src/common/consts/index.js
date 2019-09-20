@@ -1,5 +1,5 @@
 const isDevelopment = process.env === "development";
-const cao = 'cao';
+const test = 'TEST';
 export const STATE = {
     SUCCESS: 1,
     ERROR: {
